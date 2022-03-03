@@ -9,4 +9,5 @@ repositories {
 dependencies {
     implementation 'com.google.cloud.tools.jib:com.google.cloud.tools.jib.gradle.plugin:3.2.0'
     implementation 'com.srcclr.gradle:com.srcclr.gradle.gradle.plugin:3.1.10'
+    implementation 'org.apache.commons:commons-compress:1.21'
 }
